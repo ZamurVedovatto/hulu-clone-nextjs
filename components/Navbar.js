@@ -1,5 +1,4 @@
 import { useRouter } from 'next/dist/client/router'
-import React from 'react'
 import requests from '../utils/requests'
 
 export default function Navbar() {
